@@ -6,4 +6,5 @@ mainLoop:for(let num = 2; num <= 100; num++) {
 			continue mainLoop
 		}
 	}
+	console.log(num);
 }
